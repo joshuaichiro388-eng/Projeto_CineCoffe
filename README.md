@@ -1,5 +1,7 @@
 # CineCoffe
 <img width="489" height="357" alt="image" src="https://github.com/user-attachments/assets/ff1b1406-4a12-4182-b8c3-5dc3d6b88d36" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## Objetivo
 Sistema desktop desenvolvido em Java com interface gráfica Java Swing para o gerenciamento completo das operações de um cinema, permitindo administrar filmes, salas, sessões, clientes e funcionários. O sistema também possibilita controlar fluxos operacionais como a compra e a venda de ingressos, aplicando regras de negócio robustas, além de consultar e organizar as informações por meio de filtros dinâmicos e ordenações baseadas em programação funcional.
