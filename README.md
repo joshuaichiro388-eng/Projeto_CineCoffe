@@ -93,9 +93,9 @@ O projeto foi estruturado aplicando os principais conceitos de orientação a ob
 5. Execute a classe `Main` para iniciar a aplicação desktop baseada em Java Swing.
 ![Demonstração do Sistema](./imagens/tela-principal.gif)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+
 <div align="center">
-  <h3>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)</h3>
-  <img src="./imagens/cadastro.gif" width="700" alt=![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)>
+  <img src="./imagens/fundo-animado.gif" width="100%" alt="Fundo Animado">
 </div>
