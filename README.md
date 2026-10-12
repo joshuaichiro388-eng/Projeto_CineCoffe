@@ -1,7 +1,5 @@
 # CineCoffe
 <img width="489" height="357" alt="image" src="https://github.com/user-attachments/assets/ff1b1406-4a12-4182-b8c3-5dc3d6b88d36" />
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## Objetivo
 Sistema desktop desenvolvido em Java com interface gráfica Java Swing para o gerenciamento completo das operações de um cinema, permitindo administrar filmes, salas, sessões, clientes e funcionários. O sistema também possibilita controlar fluxos operacionais como a compra e a venda de ingressos, aplicando regras de negócio robustas, além de consultar e organizar as informações por meio de filtros dinâmicos e ordenações baseadas em programação funcional.
@@ -93,3 +91,7 @@ O projeto foi estruturado aplicando os principais conceitos de orientação a ob
 3. Abra o projeto em sua IDE Java de preferência (como IntelliJ IDEA, Eclipse ou NetBeans).
 4. Localize a classe principal de entrada `Main` localizada dentro do pacote `cinema`.
 5. Execute a classe `Main` para iniciar a aplicação desktop baseada em Java Swing.
+![Demonstração do Sistema](./imagens/tela-principal.gif)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
