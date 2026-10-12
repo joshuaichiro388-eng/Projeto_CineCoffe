@@ -96,7 +96,3 @@ O projeto foi estruturado aplicando os principais conceitos de orientação a ob
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
-<div align="center">
-  <img src="<img width="500" height="213" alt="preview_45642_1501755208_38b9f66b4825147ac7bfe81fb9f7accc" src="https://github.com/user-attachments/assets/5183a802-9e51-48e0-bc08-e1bf25f8ab69" />
-" width="100%" alt="Fundo Animado">
-</div>
