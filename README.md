@@ -94,7 +94,8 @@ O projeto foi estruturado aplicando os principais conceitos de orientação a ob
 ![Demonstração do Sistema](./imagens/tela-principal.gif)
 
 <div align="center">
-  <h3>Demonstração da Tela de Cadastro</h3>
+  <h3>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)</h3>
   <img src="./imagens/cadastro.gif" width="700" alt=![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)>
 </div>
