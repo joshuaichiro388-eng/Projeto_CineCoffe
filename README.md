@@ -10,7 +10,8 @@ Cinema
 ## Integrantes
 - Gabriel Pereira Jorge
 - Joshua Ichiro Taniguchi
-- [https://img.shields.io/badge/TEXTO_ESQUERDA-TEXTO_DIREITA-COR?style=for-the-badge&logo=NOME_DO_LOGO&logoColor=white](https://img.shields.io/badge/TEXTO_ESQUERDA-TEXTO_DIREITA-COR?style=for-the-badge&logo=NOME_DO_LOGO&logoColor=white)
+![Demonstração do Sistema](./imagens/tela-principal.gif)
+[https://img.shields.io/badge/TEXTO_ESQUERDA-TEXTO_DIREITA-COR?style=for-the-badge&logo=NOME_DO_LOGO&logoColor=white](https://img.shields.io/badge/TEXTO_ESQUERDA-TEXTO_DIREITA-COR?style=for-the-badge&logo=NOME_DO_LOGO&logoColor=white)
 
 ## Principais Funcionalidades
 - **Gerenciamento de Cadastros**: Telas completas para cadastro, alteração, remoção e listagem de Filmes, Salas, Sessões, Clientes e Funcionários.
