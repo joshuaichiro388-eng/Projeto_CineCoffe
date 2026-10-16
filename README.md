@@ -90,7 +90,6 @@ O projeto foi estruturado aplicando os principais conceitos de orientação a ob
 2. Clone o repositório ou descompacte o projeto em sua máquina.
 3. Abra o projeto em sua IDE Java de preferência (como IntelliJ IDEA, Eclipse ou NetBeans).
 4. Localize a classe principal de entrada `Main` localizada dentro do pacote `cinema`.
-5. Execute a classe `Main` para iniciar a aplicação desktop baseada em Java Swing.
 ![Demonstração do Sistema](./imagens/tela-principal.gif)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
